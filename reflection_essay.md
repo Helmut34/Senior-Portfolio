@@ -19,8 +19,11 @@ I’d like a career that involved talking to people. When I first started Comput
 
 **What professional organizations would you like to join? What professional development would you like to be a part of in the next five years? Be specific and don't consider places of employment.**
 
-
+I would like to participate in workshops in my area, especially those that focus on creating open-source projects. Over the next five years, I plan to start completing certifications and participating in as many coding projects self or in a group, as I can to further develop my skills.
 
 
 
 **What are the ways you can use the skills you have learned in CS to serve your community? Be specific.**
+
+There are many ways I can use my skills to serve my community. When I graduate, I plan on taking on freelancing tasks for small businesses in my area. I frequently see small businesses struggling simply because they lack the technological resources to advertise or manage their finances effectively. Helping them has always been a short-term goal of mine.
+In the long term, I would like to work with companies focused on making life easier for people through new technology such as assisted movement, automated cars, and electronic prosthetics. I believe that the combination of medicine and technology offers some of the best opportunities to improve peoples lives and help create a better future for everyone.
