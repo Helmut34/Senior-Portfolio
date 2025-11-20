@@ -17,12 +17,12 @@ Programming Projects
 ![Frontend Page of Running app](images/Project2.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Mapping Big Data| CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Dijsktra Algorithm Console 4 Title | CSCI 332](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -36,28 +36,28 @@ Ethics Papers
 -   **Class:** Datastructures and Algorithms
 -   **Grade:** 100
 
-### [Paper 2 Title](/pdf/copy.pdf)
+### [Ethics of Copying Code](/pdf/copy.pdf)
 
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** 100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Databases Ethics Paper](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
--   **Grade:**
+-   **Grade:** 100
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/HD.pdf)
+### [Data Manipulation Presentation (Hurricane Data by Helmut Cespedes)](/pdf/HD.pdf)
 
 - **Class:** Fundamentals of Artificial Intelligence
 - **Grade:** 80%
 
 
-### [Presentation 2 Title](/pdf/64bit.pdf)
+### [Intel 64-bit: How memory paging works](/pdf/64bit.pdf)
 
 - **Class:** Operating Systems
 - **Grade:** NA
