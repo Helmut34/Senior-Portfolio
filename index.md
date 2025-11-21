@@ -19,12 +19,12 @@ Programming Projects
 ---
 ### [Mapping Big Data| CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images\MainProjectCodep3.png)
+![Main Project Code](images\MainProjectCodep3.png)
 
 ---
 ### [Dijsktra Algorithm Console| CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/consoleP4.png)
+![Console](images/consoleP4.png)
 
 ---
 
@@ -41,11 +41,10 @@ Ethics Papers
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** 100
 
-### [Databases Ethics Paper](/pdf/sample_presentation.pdf)
+### [Social, Ethical, and Legal Issues Paper ](/pdf/DatabasePaper.pdf)
 
--   **Class:** 
--   **Grade:** 100
-
+-   **Class:** Database Management
+-   **Grade:** NA
 ---
 
 Presentations
