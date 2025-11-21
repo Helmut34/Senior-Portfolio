@@ -19,12 +19,12 @@ Programming Projects
 ---
 ### [Mapping Big Data| CSCI 325](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/MainProjectCode3.png)
 
 ---
-### [Dijsktra Algorithm Console 4 Title | CSCI 332](project1)
+### [Dijsktra Algorithm Console| CSCI 332](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/consoleP4.png)
 
 ---
 

@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Running app for Event
 ===============
 
 -   **Class:**  CSCI 334
 -   **Grade:** 90
 -   **Language(s):** Ruby, SCSS, HTML, CSS, JS
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/lostinlaland/running_app)  
-    (Please [email me](mailto:examhelmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -22,16 +22,16 @@ See README for running instructions
 
 The user can create an account or view the race schedule. Once a user is signed up they can join a race in which they will now be able to see their team Dashboard.
 
-![screenshot](images/UsageFlow1P2.png)  
+![screenshot](images\UsageFlow1P1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/UsageFlow2P2.png)  
+![screenshot](images\UsageFlowP2P2.png)  
 Fig 2. Example viewing runner dashboard.
 
-![screenshot](images/UsageFlow3P2.png)  
+![screenshot](images\UsageFlowP3P2.png)  
 Fig 3. Example viewing current events.
 
-![screenshot](images/UsageFlow4P2.png.png)  
+![screenshot](images\UsageFlow4P2.png)  
 Fig 3. Example viewing runner dashboard after login.
 
 

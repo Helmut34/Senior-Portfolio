@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+ForeCite Citation Parser
 ===============
 
 -   **Class:** CSCI 496
 -   **Grade:** NA
 -   **Language(s):** Python, HTML
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/Helmut34/citation-summary-parser)  
-    (Please [email me](mailto:examhelmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -27,16 +27,16 @@ python app.py
 
 Usage Flow Included In Documentation
 
-![screenshot](images/UsageFlow1P1.png)  
+![screenshot](images\UsageFlow1P1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/UsageFlow2P1.png)  
+![screenshot](images\UsageFlow2P1.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/UsageFlow3P1.png)  
+![screenshot](images\UsageFlow3P1.png)  
 Fig 3. Example for Searching a document
 
-![screenshot](images/UsageFlow4P1.png)  
+![screenshot](images\UsageFlow4P1.png)  
 Fig 3. Example for deleting a document
 
 
