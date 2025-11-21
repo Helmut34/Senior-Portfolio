@@ -22,7 +22,7 @@ See README for running instructions
 
 The user can create an account or view the race schedule. Once a user is signed up they can join a race in which they will now be able to see their team Dashboard.
 
-![screenshot](images\UsageFlow1P1.png)  
+![screenshot](images\Project2.png)  
 Fig 1. The launch screen
 
 ![screenshot](images\UsageFlowP2P2.png)  
