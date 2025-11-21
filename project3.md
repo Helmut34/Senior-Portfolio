@@ -6,7 +6,7 @@ Mapping Big Data
 -   **Class:** Datastructures and Algorithms
 -   **Grade:** 100
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Helmut34/project3Portfolio-repo)  
+-   **Source Code Repository:** [Source Code:](https://github.com/Helmut34/project3Portfolio-repo)  
     (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description

@@ -17,12 +17,12 @@ Programming Projects
 ![Frontend Page of Running app](images/Project2.png)
 
 ---
-### [Mapping Big Data| CSCI 325](project1)
+### [Mapping Big Data| CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/MainProjectCode3.png)
+![Project 3 Thumbnail Name](images\MainProjectCodep3.png)
 
 ---
-### [Dijsktra Algorithm Console| CSCI 332](project1)
+### [Dijsktra Algorithm Console| CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/consoleP4.png)
 

@@ -6,7 +6,7 @@ Dijsktra Algorithm Console
 -   **Class:** Algorithms
 -   **Grade:**  NA
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Helmut34/project4Portfolio-repo)  
+-   **Source Code Repository:** [Source Code:](https://github.com/Helmut34/project4Portfolio-repo)  
     (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description

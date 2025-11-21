@@ -6,7 +6,7 @@ Running app for Event
 -   **Class:**  CSCI 334
 -   **Grade:** 90
 -   **Language(s):** Ruby, SCSS, HTML, CSS, JS
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/lostinlaland/running_app)  
+-   **Source Code Repository:** [Source Code:](https://github.com/lostinlaland/running_app)  
     (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description

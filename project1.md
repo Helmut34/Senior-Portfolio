@@ -6,7 +6,7 @@ ForeCite Citation Parser
 -   **Class:** CSCI 496
 -   **Grade:** NA
 -   **Language(s):** Python, HTML
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Helmut34/citation-summary-parser)  
+-   **Source Code Repository:** [Source Code:](https://github.com/Helmut34/citation-summary-parser)  
     (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
