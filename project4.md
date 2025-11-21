@@ -22,8 +22,6 @@ cd ./project2
 make run
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
 ## UI Design
 
 Simple Console Design, After code is compiled the console outputs the matrix based on the verteces provided. Once the user enters a desired vetex to apply Djsktras algorithm to, the console outputs the distances.
